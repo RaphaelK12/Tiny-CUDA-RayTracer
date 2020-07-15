@@ -13,7 +13,7 @@ data-canonical-src="https://github.com/JiayinCao/Tiny-CUDA-RayTracer/blob/master
 <img src="https://github.com/JiayinCao/Tiny-CUDA-RayTracer/blob/master/gallery/bunny2.jpg?raw=true" 
 data-canonical-src="https://github.com/JiayinCao/Tiny-CUDA-RayTracer/blob/master/gallery/bunny2.jpg?raw=true" width="410" height="328" />
 
-# Origin of this program
+# Origin of This Program
 This was my work during grad school in a national contest held by NVIDIA in China during the year of 2010, a contest that was for undergraduates, 
 grad students and phd candidates to demonstrate their skills of GPU programming.
 
