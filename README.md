@@ -21,7 +21,7 @@ Eventually, this work stood out and won the first price in the contest.
 
 Below was a photo of Jensen Huang, CEO of NVIDIA, presenting me with my trophy.
 <img src="https://github.com/JiayinCao/Tiny-CUDA-RayTracer/blob/master/gallery/trophy.JPG?raw=true" 
-data-canonical-src="https://github.com/JiayinCao/Tiny-CUDA-RayTracer/blob/master/gallery/trophy.JPG?raw=true" width="819" height="545" />
+data-canonical-src="https://github.com/JiayinCao/Tiny-CUDA-RayTracer/blob/master/gallery/trophy.JPG?raw=true" style="max-width:819; max-height:545;" />
 
 # Note
 - I have no plan of updating this project in the future since this repository is mostly for the purpose of archiving final work of my submission in that contest.
