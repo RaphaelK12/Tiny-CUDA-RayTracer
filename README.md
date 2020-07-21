@@ -19,7 +19,7 @@ grad students and phd candidates to demonstrate their skills of GPU programming.
 
 Eventually, this work stood out and won the first price in the contest.
 
-Below was a photo of Jensen Huang, CEO of NVIDIA, presenting me with my trophy.
+Below is a photo of Jensen Huang, CEO of NVIDIA, presenting me with my trophy.
 <img src="https://github.com/JiayinCao/Tiny-CUDA-RayTracer/blob/master/gallery/trophy.JPG?raw=true" 
 data-canonical-src="https://github.com/JiayinCao/Tiny-CUDA-RayTracer/blob/master/gallery/trophy.JPG?raw=true" style="max-width:819; max-height:545;" />
 
