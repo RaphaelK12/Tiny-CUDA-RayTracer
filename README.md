@@ -17,7 +17,7 @@ data-canonical-src="https://github.com/JiayinCao/Tiny-CUDA-RayTracer/blob/master
 This was my work during grad school in a national contest held by NVIDIA in China during the year of 2010, a contest that was for undergraduates, 
 grad students and phd candidates to demonstrate their skills of GPU programming.
 
-Eventually, this work stood out and won the first price in the contest.
+Eventually, this work stood out and won the first prize in the contest.
 
 Below is a photo of Jensen Huang, CEO of NVIDIA, presenting me with my trophy.
 <img src="https://github.com/JiayinCao/Tiny-CUDA-RayTracer/blob/master/gallery/trophy.JPG?raw=true" 
